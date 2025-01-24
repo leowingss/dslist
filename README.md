@@ -1,6 +1,6 @@
-# List Games
+# DSList - API de Gerenciamento de Jogos
 
-DSList é uma API RESTful desenvolvida em Java com Spring Boot. O projeto permite gerenciar listas de jogos, com funcionalidades para listar jogos, buscar por ID e organizar jogos por listas específicas. Ele utiliza Postgres para o banco de dados principal e H2 para testes, com integração via Docker para facilitar o setup.
+DSList é uma API RESTful desenvolvida em Java com Spring Boot, que facilita o gerenciamento e organização de listas de jogos, proporcionando funcionalidades como listagem, busca por ID e categorização em listas específicas.
 
 # Tecnologias Utilizadas
 - Java 17
